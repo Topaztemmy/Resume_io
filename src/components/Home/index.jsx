@@ -92,7 +92,7 @@ import {AiFillLinkedin} from "react-icons/ai";
             <p>Key Resposibilites </p>
             <ul>
                 <li>Carried out Hepatitis B virus profile using rapid kit</li>
-                <li>Assisted in coordinating microbioogical practical fro medical students</li>
+                <li>Assisted in coordinating microbioogical practical for medical students</li>
                 <li>Count in HIV positive children</li>
                 <li>Assisted in invigilating post graduate students' examination</li>
             </ul>
